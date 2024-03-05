@@ -1,4 +1,4 @@
-# defaultt
+# defaulttt
 # curl version(terminal)
 """
 curl https://api.openai.com/v1/chat/completions \
